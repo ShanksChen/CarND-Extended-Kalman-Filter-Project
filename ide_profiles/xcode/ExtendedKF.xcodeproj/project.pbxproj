@@ -78,6 +78,7 @@
 		ED4D133E21BA3A19005618C5 /* measurement_package.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = measurement_package.h; path = src/measurement_package.h; sourceTree = "<group>"; };
 		ED4D133F21BA3A2D005618C5 /* json.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = json.hpp; path = src/json.hpp; sourceTree = "<group>"; };
 		ED4D134021BA3A2D005618C5 /* Eigen */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Eigen; path = src/Eigen; sourceTree = "<group>"; };
+		ED4D134121BB63FA005618C5 /* data */ = {isa = PBXFileReference; lastKnownFileType = folder; path = data; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -87,6 +88,7 @@
 				8445AB4873C24F69A76869A1 /* FusionEKF.cpp */,
 				AA56BE74758D453A8EDB22A4 /* kalman_filter.cpp */,
 				17ECDDF49E61409CB0B3672A /* main.cpp */,
+				ED4D134121BB63FA005618C5 /* data */,
 				3307F11FA4E0431CACAA8661 /* tools.cpp */,
 			);
 			name = "Source Files";
